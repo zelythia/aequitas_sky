@@ -1,0 +1,12 @@
+{
+  "type": "aequitas_sky:spawn_platform",
+  "config": {
+    "structure": "aequitas_sky:spawn_platform",
+    "pos": [
+      0,
+      63,
+      0
+    ],
+    "spawn_relative": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "techreborn:grinder",
+  "ingredients": [
+    {
+      "item": "techreborn:raw_tin",
+      "count": 2
+    }
+  ],
+  "power": 5,
+  "results": [
+    {
+      "item": "indrev:tin_dust",
+      "count": 3
+    }
+  ],
+  "time": 400
+}

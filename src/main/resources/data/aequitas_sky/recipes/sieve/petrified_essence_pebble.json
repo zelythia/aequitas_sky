@@ -1,0 +1,21 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "minecraft:dirt"
+  },
+  "result": {
+    "count": 1,
+    "item": "aequitas_sky:petrified_essence_pebble"
+  },
+  "rolls": {
+    "fabricaeexnihilo:string_mesh": [
+      0.05,
+      0.1
+    ],
+    "fabricaeexnihilo:flint_mesh": [
+      0.05,
+      0.1
+    ]
+  },
+  "waterlogged": false
+}

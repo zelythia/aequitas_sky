@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "net.zelythia.aequitas_sky.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ChunkGeneratorAccessor",
+    "MinecraftServerMixin",
+    "ServerPropertiesHandlerMixin"
+  ],
+  "client": [
+    "CreateWorldScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

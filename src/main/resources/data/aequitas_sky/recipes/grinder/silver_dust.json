@@ -1,0 +1,17 @@
+{
+  "type": "techreborn:grinder",
+  "ingredients": [
+    {
+      "item": "techreborn:raw_silver",
+      "count": 2
+    }
+  ],
+  "power": 5,
+  "results": [
+    {
+      "item": "indrev:silver_dust",
+      "count": 3
+    }
+  ],
+  "time": 400
+}

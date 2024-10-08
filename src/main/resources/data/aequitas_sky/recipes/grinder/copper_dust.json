@@ -1,0 +1,17 @@
+{
+  "type": "techreborn:grinder",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_copper",
+      "count": 2
+    }
+  ],
+  "power": 5,
+  "results": [
+    {
+      "item": "indrev:copper_dust",
+      "count": 3
+    }
+  ],
+  "time": 400
+}

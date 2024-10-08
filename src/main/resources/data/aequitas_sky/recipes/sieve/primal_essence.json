@@ -1,0 +1,21 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "aequitas:petrified_essence"
+  },
+  "result": {
+    "count": 1,
+    "item": "aequitas:primal_essence"
+  },
+  "rolls": {
+    "fabricaeexnihilo:diamond_mesh": [
+      0.1,
+      0.05
+    ],
+    "fabricaeexnihilo:emerald_mesh": [
+      0.1,
+      0.05
+    ]
+  },
+  "waterlogged": true
+}

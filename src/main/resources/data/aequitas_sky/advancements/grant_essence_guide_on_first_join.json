@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "loot": [
+      "aequitas_sky:grant_essence_guide_on_first_join"
+    ]
+  }
+}

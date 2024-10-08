@@ -1,0 +1,31 @@
+{
+  "customEntries": [
+    {
+      "output": {
+        "item": "bewitchment:juniper_sapling"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "saplings"
+    },
+    {
+      "output": {
+        "item": "bewitchment:cypress_sapling"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "saplings"
+    },
+    {
+      "output": {
+        "item": "bewitchment:elder_sapling"
+      },
+      "payment": {
+        "item": "minecraft:emerald"
+      },
+      "category": "saplings"
+    }
+  ]
+}

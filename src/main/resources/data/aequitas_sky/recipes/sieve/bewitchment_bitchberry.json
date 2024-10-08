@@ -1,0 +1,28 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "minecraft:dirt"
+  },
+  "result": {
+    "count": 1,
+    "item": "bewitchment:witchberry"
+  },
+  "rolls": {
+    "fabricaeexnihilo:string_mesh": [
+      0.01
+    ],
+    "fabricaeexnihilo:flint_mesh": [
+      0.03
+    ],
+    "fabricaeexnihilo:copper_mesh": [
+      0.06
+    ],
+    "fabricaeexnihilo:gold_mesh": [
+      0.1
+    ],
+    "fabricaeexnihilo:emerald_mesh": [
+      0.15
+    ]
+  },
+  "waterlogged": false
+}

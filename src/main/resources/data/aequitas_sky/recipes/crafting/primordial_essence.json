@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PE",
+    "EP"
+  ],
+  "key": {
+    "P": {
+      "item": "aequitas:petrified_essence"
+    },
+    "E": {
+      "item": "aequitas:primal_essence"
+    }
+  },
+  "result": {
+    "item": "aequitas:primordial_essence",
+    "count": 1
+  }
+}

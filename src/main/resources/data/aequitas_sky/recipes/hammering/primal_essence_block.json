@@ -1,0 +1,13 @@
+{
+  "type": "fabricaeexnihilo:hammer",
+  "block": "aequitas:primal_essence_block",
+  "result": {
+    "chances": [
+      0.5
+    ],
+    "stack": {
+      "count": 1,
+      "item": "aequitas_sky:crushed_primal_essence_block"
+    }
+  }
+}

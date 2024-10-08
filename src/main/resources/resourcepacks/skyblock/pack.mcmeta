@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+      "",
+      {
+        "text": "Enables Skyblock world generation",
+        "color": "light_purple"
+      },
+      "\nby ",
+      {
+        "text": "BluePsychoRanger",
+        "color": "blue"
+      }
+    ],
+    "supported_formats": [
+      15,
+      26
+    ]
+  },
+  "id": "skyblock",
+  "version": "1.0.2"
+}
