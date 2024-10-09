@@ -8,7 +8,8 @@
     "ServerPropertiesHandlerMixin"
   ],
   "client": [
-    "CreateWorldScreenMixin"
+    "CreateWorldScreenMixin",
+    "compat.FTBXModCompatEmi"
   ],
   "injectors": {
     "defaultRequire": 1
