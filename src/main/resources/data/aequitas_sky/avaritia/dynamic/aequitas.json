@@ -1,0 +1,16 @@
+{
+  "dependency": [
+    "aequitas"
+  ],
+  "recipe": {
+    "catalyst": [
+      {
+        "item": "aequitas:portable_pedestal"
+      }
+    ]
+  },
+  "singularity": {
+    "add": 50,
+    "mul": 0
+  }
+}
