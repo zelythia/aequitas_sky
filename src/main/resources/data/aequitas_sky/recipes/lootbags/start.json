@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Common Lootbag",
+  "color": 43520,
+  "rarity": "UNCOMMON",
+  "output": {
+    "table": "aequitas_sky:lootbags/start"
+  }
+}

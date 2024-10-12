@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Epic Lootbag",
+  "color": 11141290,
+  "rarity": "EPIC",
+  "output": {
+    "table": "aequitas_sky:lootbags/epic"
+  }
+}

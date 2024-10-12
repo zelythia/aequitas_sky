@@ -1,0 +1,9 @@
+{
+  "type": "lootbags:loot",
+  "name": "Rare Lootbag",
+  "color": 43690,
+  "rarity": "RARE",
+  "output": {
+    "table": "aequitas_sky:lootbags/rare"
+  }
+}
