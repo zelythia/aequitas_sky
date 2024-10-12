@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "C": {
+      "item": "avaritia:infinity_catalyst"
+    }
+  },
+  "pattern": [
+    "ICI",
+    "ICI",
+    "ICI"
+  ],
+  "result": {
+    "count": 1,
+    "item": "iron-jetpacks:creative_capacitor"
+  }
+}

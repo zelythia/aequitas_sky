@@ -1,0 +1,32 @@
+{
+  "type": "avaritia:extreme_shaped",
+  "result": {
+    "item": "tconstruct:creative_slot",
+    "nbt": "{slot:\"upgrades\"}"
+  },
+  "pattern": [
+    "         ",
+    " NNNNNNN ",
+    " NIIIIIN ",
+    " NIBBBIN ",
+    " NIB#BIN ",
+    " NIBBBIN ",
+    " NIIIIIN ",
+    " NNNNNNN ",
+    "         "
+  ],
+  "key": {
+    "I": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "N": {
+      "item": "avaritia:neutronium_ingot"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    },
+    "#": {
+      "item": "avaritia:infinity_block"
+    }
+  }
+}

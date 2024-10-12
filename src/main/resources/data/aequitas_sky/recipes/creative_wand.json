@@ -1,0 +1,28 @@
+{
+  "type": "avaritia:extreme_shaped",
+  "result": {
+    "item": "wands:creative_wand"
+  },
+  "pattern": [
+    "    I   I",
+    "     III ",
+    "   I IBI ",
+    "     III ",
+    "    I   I",
+    "   H  I  ",
+    "  H      ",
+    " H       ",
+    "H        "
+  ],
+  "key": {
+    "H": {
+      "tag": "minecraft:logs"
+    },
+    "I": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "B": {
+      "item": "avaritia:infinity_block"
+    }
+  }
+}

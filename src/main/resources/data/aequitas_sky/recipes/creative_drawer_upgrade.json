@@ -1,0 +1,31 @@
+{
+  "type": "avaritia:extreme_shaped",
+  "result": {
+    "item": "extended_drawers:creative_upgrade"
+  },
+  "pattern": [
+    "WWWWWWWWW",
+    "W W   W W",
+    "WWNNNNNWW",
+    "W NIIIN W",
+    "W NIBIN W",
+    "W NIIIN W",
+    "WWNNNNNWW",
+    "W W   W W",
+    "WWWWWWWWW"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:logs"
+    },
+    "I": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "N": {
+      "item": "avaritia:neutronium_ingot"
+    },
+    "B": {
+      "item": "avaritia:infinity_block"
+    }
+  }
+}

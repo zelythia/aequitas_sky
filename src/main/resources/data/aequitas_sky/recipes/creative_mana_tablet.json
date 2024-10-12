@@ -1,0 +1,29 @@
+{
+  "type": "avaritia:extreme_shaped",
+  "result": {
+    "item": "botania:mana_tablet",
+    "nbt": "{creative:1b,mana:500000}"
+  },
+  "pattern": [
+    "         ",
+    " IIIIIII ",
+    " IGGGGGI ",
+    " IGDDDGI ",
+    " IGDDDGI ",
+    " IGDDDGI ",
+    " IGGGGGI ",
+    " IIIIIII ",
+    "         "
+  ],
+  "key": {
+    "I": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "G": {
+      "item": "botania:gaia_ingot"
+    },
+    "D": {
+      "item": "botania:mana_diamond_block"
+    }
+  }
+}
