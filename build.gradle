@@ -40,10 +40,10 @@ dependencies {
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
 
-	modImplementation "curse.maven:ftb-quests-fabric-438496:5543954"
+	modCompileOnly "curse.maven:ftb-quests-fabric-438496:5543954"
 	modCompileOnly "dev.emi:emi-fabric:1.1.16+1.20.1:api"
 
-	modImplementation "curse.maven:ftb-xmod-compat-889915:5257896"
+	modCompileOnly "curse.maven:ftb-xmod-compat-889915:5257896"
 
 //	modImplementation("dev.ftb.mods:ftb-xmod-compat-fabric:2.1.1") {
 //		transitive = false;
