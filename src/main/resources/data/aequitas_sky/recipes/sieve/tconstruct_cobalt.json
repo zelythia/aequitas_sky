@@ -1,0 +1,22 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "fabricaeexnihilo:crushed_netherrack"
+  },
+  "result": {
+    "count": 1,
+    "item": "tconstruct:cobalt_nugget"
+  },
+  "rolls": {
+    "fabricaeexnihilo:diamond_mesh": [
+      0.1
+    ],
+    "fabricaeexnihilo:iron_mesh": [
+      0.05
+    ],
+    "fabricaeexnihilo:netherite_mesh": [
+      0.15
+    ]
+  },
+  "waterlogged": false
+}
