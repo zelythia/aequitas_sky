@@ -1,0 +1,21 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "aequitas_sky:crushed_primal_essence_block"
+  },
+  "result": {
+    "count": 1,
+    "item": "conjuring:lesser_conjuration_essence"
+  },
+  "rolls": {
+    "fabricaeexnihilo:diamond_mesh": [
+      0.1,
+      0.05
+    ],
+    "fabricaeexnihilo:emerald_mesh": [
+      0.1,
+      0.05
+    ]
+  },
+  "waterlogged": false
+}
