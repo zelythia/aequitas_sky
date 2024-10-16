@@ -1,0 +1,71 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:glow_berry_custard"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:fruit_salad"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:mixed_salad"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:barbecue_stick"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:egg_sandwich"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:chicken_sandwich"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:hamburger"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:bacon_sandwich"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:mutton_wrap"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:dumplings"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:stuffed_potato"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:cabbage_rolls"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:salmon_roll"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:cod_roll"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmersdelight:kelp_roll_slice"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

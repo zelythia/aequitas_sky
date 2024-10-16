@@ -1,0 +1,8 @@
+{
+  "type": "lootbags:loot",
+  "name": "Nourishment Bag",
+  "rarity": "COMMON",
+  "output": {
+    "table": "aequitas_sky:lootbags/food"
+  }
+}
