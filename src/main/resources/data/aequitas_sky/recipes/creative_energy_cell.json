@@ -1,0 +1,37 @@
+{
+  "type": "avaritia:extreme_shaped",
+  "result": {
+    "item": "powah:energy_cell_creative"
+  },
+  "pattern": [
+    "         ",
+    " NNNNNNN ",
+    " NIIIIIN ",
+    " NICSCIN ",
+    " NIS#BIN ",
+    " NICBCIN ",
+    " NIIIIIN ",
+    " NNNNNNN ",
+    "         "
+  ],
+  "key": {
+    "I": {
+      "item": "avaritia:infinity_ingot"
+    },
+    "#": {
+      "item": "avaritia:infinity_block"
+    },
+    "N": {
+      "item": "avaritia:neutronium_ingot"
+    },
+    "C": {
+      "item": "powah:energy_cell_nitro"
+    },
+    "B": {
+      "item": "energizedpower:advanced_battery_box"
+    },
+    "S": {
+      "item": "techreborn:interdimensional_su"
+    }
+  }
+}
