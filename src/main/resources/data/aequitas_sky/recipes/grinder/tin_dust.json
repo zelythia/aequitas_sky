@@ -3,14 +3,14 @@
   "ingredients": [
     {
       "item": "techreborn:raw_tin",
-      "count": 2
+      "count": 1
     }
   ],
   "power": 5,
   "results": [
     {
-      "item": "indrev:tin_dust",
-      "count": 3
+      "item": "energizedpower:tin_dust",
+      "count": 2
     }
   ],
   "time": 400

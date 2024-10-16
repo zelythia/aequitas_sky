@@ -3,14 +3,14 @@
   "ingredients": [
     {
       "item": "minecraft:raw_gold",
-      "count": 2
+      "count": 1
     }
   ],
   "power": 5,
   "results": [
     {
-      "item": "indrev:gold_dust",
-      "count": 3
+      "item": "energizedpower:gold_dust",
+      "count": 2
     }
   ],
   "time": 400
