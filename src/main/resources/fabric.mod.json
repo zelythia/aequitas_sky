@@ -2,16 +2,15 @@
 	"schemaVersion": 1,
 	"id": "aequitas_sky",
 	"version": "${version}",
-	"name": "AequitasSky",
-	"description": "This is a mod for te Aequitas-Sky modpack",
+	"name": "Equal Sky! - Companion",
+	"description": "This is a companion mod for the Modpack Equal Sky!",
 	"authors": [
 		"lukas/zelythia"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/zelythia/aequitas_sky"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/aequitas_sky/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -31,8 +30,5 @@
 		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
