@@ -1,18 +1,18 @@
 {
   "type": "avaritia:extreme_shaped",
   "result": {
-    "item": "extended_drawers:creative_upgrade"
+    "item": "storagedrawers:creative_storage_upgrade"
   },
   "pattern": [
-    "WWWWWWWWW",
-    "W W   W W",
-    "WWNNNNNWW",
-    "W NIIIN W",
-    "W NIBIN W",
-    "W NIIIN W",
-    "WWNNNNNWW",
-    "W W   W W",
-    "WWWWWWWWW"
+    "         ",
+    " WWWWWWW ",
+    " WNNNNNW ",
+    " WNIIINW ",
+    " WNIBINW ",
+    " WNIIINW ",
+    " WNNNNNW ",
+    " WWWWWWW ",
+    "         "
   ],
   "key": {
     "W": {
